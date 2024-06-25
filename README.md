@@ -1,125 +1,126 @@
 # Kotlin-Multiplatform-Projects
 
 ## A
-| Name | Description | Libraries Used
-| --- | --- | ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## B
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 ## C
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 ## D
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 ## E
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 ## F
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 ## G
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 ## H
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 ## I
-| Name | Description | Libraries Used  | Functionalities
-| --- | --- |  ---  |  ---  |
-|[Image Viewer](https://github.com/JetBrains/compose-multiplatform/tree/master/examples/imageviewer)|An application for capturing, viewing, and storing pictures. Includes support for maps. Uses Compose Multiplatform for the UI.| `kotlinx-serialization` `kotlinx-datetime` `kotlinx-coroutines` `play-services-maps` `play-services-locations` `android-maps-compose` `accompanist-permissions` | `Capture Image` `View Image` `Store Image` `Maps` `Compose Multiplatform for UI` | 
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
+| [Image Viewer](https://github.com/JetBrains/compose-multiplatform/tree/master/examples/imageviewer) | An application for capturing, viewing, and storing pictures. Includes support for maps. Uses Compose Multiplatform for the UI. | `Android`<br>`iOS`<br>`Desktop`<br>`Web` | `Capture Image`<br>`View Image`<br>`Store Image`<br>`Maps`<br>`Compose Multiplatform for UI` |
+
 
 
 ## J
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## K
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## L
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## M
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## N
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## O
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## P
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## Q
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## R
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
-|[Recipe App](https://github.com/SEAbdulbasit/recipe-app)|A demonstration application for viewing recipes. Showcases the use of animations.| UI Model Data storage | `kotlinx-coroutines` | Jetpack Compose on Android Compose Multiplatform on iOS and desktop|
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
+|[Recipe App](https://github.com/SEAbdulbasit/recipe-app)|A demonstration application for viewing recipes. Showcases the use of animations.| `Android`<br>`IOS`<br>`Desktop`<br>`Web` | `Hero Animation`<br>`Collapsable Toolbar`<br>`Staggered Animations`<br>`Gyroscope detection` |
 
 
 ## S
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## T
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## U
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## V
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## W
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## X
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## Y
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
 
 
 ## Z
-| Name | Description | What's Shared  | Libraries Used  | User Interface
-| --- | --- |  ---  |  ---  |  ---  |
+| Name | Description                                                           | Target Platforms    | Functionalities|
+|------|-----------------------------------------------------------------------|---------------------|----------------|
