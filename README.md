@@ -61,6 +61,7 @@
 ## M
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+| [Movies App KMP](https://github.com/muazkadan/KMP-News-App) | Movies App using compose multi-platform for shared UI and KMP for shared logic | `Android`<br>`iOS` | `Fetch Movies`<br>`Load Images`<br>`Movie Details`<br>`Compose Multiplatform UI` |
 
 
 ## N
