@@ -12,6 +12,8 @@
 ## C
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+| [CMP News App](https://github.com/muazkadan/CMP-News-App) | A news app with shared business logic and UI  | `Android`<br>`iOS`<br>`Desktop`<br>`Web` | `Latest News`<br>`Caching`<br>`Compose Multiplatform UI` |
+
 
 ## D
 | Name | Description                                                           | Target Platforms    | Functionalities|
@@ -48,6 +50,7 @@
 ## K
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+| [KMP News App](https://github.com/muazkadan/KMP-News-App) | A news app with shared business logic and native UI | `Android`<br>`iOS` | `Latest News`<br>`Compose UI`<br>`Swift UI`<br>`Caching` |
 
 
 ## L
