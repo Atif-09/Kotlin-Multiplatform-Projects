@@ -98,6 +98,7 @@
 ## T
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+|[TravelApp-KMP](https://github.com/SEAbdulbasit/TravelApp-KMP)|This is an exploration app for Compose Multiplatform UI. Currently this app have Android, iOS, Web and Desktop part and it is 100% Compose UI. | `Android`<br>`IOS`<br>`Desktop`<br>`Web` | `Countries Famous Places`<br>`Place Details`<br>`Weather`<br>`Compose Multiplatform UI` |
 
 
 ## U
