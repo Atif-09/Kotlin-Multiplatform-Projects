@@ -124,6 +124,7 @@
 ## Y
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+| [Youtube-Clone-KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) | YouTube clone using Kotlin Multiplatform. It supports the Android, iOS, Web and Desktop Application. A better version of Original Applications.  | `Android`<br>`iOS`<br>`Desktop`<br>`Web` | `Video Playback`<br>`Sharing Options`<br>`Playlist Viewing`<br>`Comprehensive Search`<br>`Video Detail`<br>`Trending Videos`<br>`Subscribe Channels`<br>`View Verified Channel Badges`<br>`Offline Video Support`<br>`Top Videos`<br>`Shorts Videos`<br>`Compose Multiplatform UI` |
 
 
 ## Z
