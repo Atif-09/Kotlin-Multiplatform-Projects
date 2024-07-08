@@ -8,6 +8,8 @@
 ## B
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+| [BookStoreKMP](https://github.com/abualgait/BookStoreKMP) | This kotlin-platform project showcases the integration of cutting-edge technologies and demonstrates a sleek UI design using Jetpack Compose for Android, Ktor for network communication, SqlDelight for database persistence, and Koin for dependency injection. | `Android`<br>`iOS`<br>`Desktop`<br>`Wear`<br>`TV` | `Books Collection`<br>`Books Rates`<br>`Books Description`<br>`Add to Cart`<br>`Compose Multiplatform UI` |
+
 
 ## C
 | Name | Description                                                           | Target Platforms    | Functionalities|
