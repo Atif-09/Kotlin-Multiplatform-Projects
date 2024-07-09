@@ -3,7 +3,7 @@
 ## A
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
-
+| [AAY_chart](https://github.com/TheChance101/AAY-chart) | A comprehensive Compose Multiplatform library that includes several types of charts. It supports iOS, Android, desktop, and web platforms, providing extensive capabilities for data visualization. | `Android`<br>`iOS`<br>`Desktop`<be> `Web`<be> | `Bar Chart ` <br> `Line Chart` <br> `Donut Chart` <br> `Pie Chart` <br> `Radar Chart` <br>
 
 ## B
 | Name | Description                                                           | Target Platforms    | Functionalities|
