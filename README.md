@@ -96,7 +96,7 @@
 ## S
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
-
+| [Superdiary](https://github.com/rafsanjani/superdiary) | A simple diary app, mostly focused on quality architectural patterns and improved testing strategies (unit, snapshot and instrumentation).l | `Android`<br>`iOS`<br>`Desktop`<br>`Web` | `Data Storage`<br>`Clean Architecture`<br>`Unit Testing`<br>`Snapshot Testing`<br>`Richtext Editing`<br>`AI Integration`<br>`Code Quality Scan`<br>`Dark Mode`<br>`Light Mode`<br>`Compose Multiplatform UI` |
 
 ## T
 | Name | Description                                                           | Target Platforms    | Functionalities|
