@@ -33,6 +33,7 @@
 ## G
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+|[Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App)|The Gemini AI KMP App is a Kotlin Compose Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms. It is an application by Gemini AI where you can retrieve information from text and images in a conversational format. Additionally, it allows storing chats group-wise using SQLDelight and KStore, and facilitates changing the Gemini API key.| `Android`<br>`IOS`<br>`Desktop`<br>`Web` | `Text to Text`<br>`Image to Text`<br>`Store chats`<br>`Animations`<br>`Compose Multiplatform UI` |
 
 ## H
 | Name | Description                                                           | Target Platforms    | Functionalities|
