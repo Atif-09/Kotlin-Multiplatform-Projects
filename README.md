@@ -71,6 +71,7 @@
 ## N
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
+|[News-KMP-App](https://github.com/Coding-Meet/News-KMP-App)|News Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux platforms.| `Android`<br>`IOS`<br>`Desktop` | `Latest News`<br>`News Details`<br>`Search News`<br>`Save News`<br>`Read Offline`<br>`Compose Multiplatform UI` |
 
 
 ## O
