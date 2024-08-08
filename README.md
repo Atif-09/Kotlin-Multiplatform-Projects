@@ -16,6 +16,7 @@
 |------|-----------------------------------------------------------------------|---------------------|----------------|
 | [CMP News App](https://github.com/muazkadan/CMP-News-App) | A news app with shared business logic and UI  | `Android`<br>`iOS`<br>`Desktop`<br>`Web` | `Latest News`<br>`Caching`<br>`Compose Multiplatform UI` |
 | [Camera-KMP](https://github.com/SEAbdulbasit/Camera-KMP) | This repository provides a comprehensive example of how to use the camera in a Kotlin Multiplatform (KMP) project. It demonstrates the implementation of camera functionality across multiple platforms, ensuring a consistent and seamless user experience. | `Android`<br>`iOS` | `Camera Access`<br>`Android Camera`<br>`IOS Camera`<br>`Permissions`<br>`Compose Multiplatform UI` |
+[Coffee Store App](https://github.com/Abdelrahman-SW/Coffee-Store-App) | Coffee Store App is a sample application developed using Kotlin Compose Multiplatform (KMP). This app demonstrates various capabilities of KMP, including REST API integration, data storage, and dependency injection. The app interacts with the a Store Coffee API to showcase a practical example of managing and displaying coffee product data | `Android`<br>`iOS`<br>`Desktop`|`Coffee Collections`<br>`Coffee Detalis`<br>`Search Coffee`<br>`Compose Multiplatform UI`
 
 
 ## D
