@@ -105,6 +105,7 @@
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
 |[TravelApp-KMP](https://github.com/SEAbdulbasit/TravelApp-KMP)|This is an exploration app for Compose Multiplatform UI. Currently this app have Android, iOS, Web and Desktop part and it is 100% Compose UI. | `Android`<br>`IOS`<br>`Desktop`<br>`Web` | `Countries Famous Places`<br>`Place Details`<br>`Weather`<br>`Compose Multiplatform UI` |
+[Tic_Tac_Toe Game](https://github.com/Abdelrahman-SW/TicTacToe_Compose_MultiPlatform_Game) | This Tic-Tac-Toe game is a cross-platform application built using Kotlin Compose Multiplatform, offering a seamless gaming experience on multiple devices. The game features real-time multiplayer functionality, allowing two players to connect and play against each other, regardless of their platform. | `Android`<br>`iOS`<br>`Desktop`|`Online Multiplayer`<br>`Compose Multiplatform UI`
 
 
 ## U
