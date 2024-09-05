@@ -56,6 +56,7 @@
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
 | [KMP News App](https://github.com/muazkadan/KMP-News-App) | A news app with shared business logic and native UI | `Android`<br>`iOS` | `Latest News`<br>`Compose UI`<br>`Swift UI`<br>`Caching` |
+| [KMP News App](https://github.com/devggaurav/newsApp-compose-multiplatform) | A news app getting news from news api with shared business logic and nice native UI | `Android`<br>`iOS` | `Latest News`<br>`Compose UI`<br>`Swift UI`<br>`Ktor`<br>`Compose` |
 
 
 ## L
@@ -73,6 +74,7 @@
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
 |[News-KMP-App](https://github.com/Coding-Meet/News-KMP-App)|News Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux platforms.| `Android`<br>`IOS`<br>`Desktop` | `Latest News`<br>`News Details`<br>`Search News`<br>`Save News`<br>`Read Offline`<br>`Compose Multiplatform UI` |
+|[Notes-KMP-App](https://github.com/devggaurav/NoteTakerApp-CMP)|Notes App A Kotlin Multiplatform project designed to target Android, iOS, platforms.| `Android`<br>`IOS` | `Create Notes`<br>`Edit Notes`<br>`Search Notes`<br>`Sort Notes`<br>`Save to MongoDB`<br>`Compose Multiplatform UI` |
 
 
 ## O
@@ -106,6 +108,7 @@
 |------|-----------------------------------------------------------------------|---------------------|----------------|
 |[TravelApp-KMP](https://github.com/SEAbdulbasit/TravelApp-KMP)|This is an exploration app for Compose Multiplatform UI. Currently this app have Android, iOS, Web and Desktop part and it is 100% Compose UI. | `Android`<br>`IOS`<br>`Desktop`<br>`Web` | `Countries Famous Places`<br>`Place Details`<br>`Weather`<br>`Compose Multiplatform UI` |
 [Tic_Tac_Toe Game](https://github.com/Abdelrahman-SW/TicTacToe_Compose_MultiPlatform_Game) | This Tic-Tac-Toe game is a cross-platform application built using Kotlin Compose Multiplatform, offering a seamless gaming experience on multiple devices. The game features real-time multiplayer functionality, allowing two players to connect and play against each other, regardless of their platform. | `Android`<br>`iOS`<br>`Desktop`|`Online Multiplayer`<br>`Compose Multiplatform UI`
+[ToDo_App](https://github.com/devggaurav/ToDoApp-Compose-multiplatform) | ToDo App is a cross-platform application built using Kotlin Compose Multiplatform | `Android`<br>`iOS`| `Create ToDo List`<br>`Edit Todo`<br>`Delete Todo`<br>`Save to MongoDB`<br>`Compose Multiplatform UI` |
 
 
 ## U
@@ -121,7 +124,7 @@
 ## W
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
-
+[Weather App](https://github.com/devggaurav/weatherApp-Compose-Multiplatform) | Weather App is a cross-platform application built using Kotlin Compose Multiplatform to show weather of current location | `Android`<br>`iOS`| `Get Currect Location`<br>`Permission handling`<br>`DI`<br>`Location API`<br>`Compose Multiplatform UI` |
 
 ## X
 | Name | Description                                                           | Target Platforms    | Functionalities|
