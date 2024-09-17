@@ -14,12 +14,10 @@
     </td>
     <td>A comprehensive Compose Multiplatform library that includes several types of charts. It supports iOS, Android, desktop, and web platforms, providing extensive capabilities for data visualization.</td>
     <td>
-      <list>
-        <li><code>Android</code></li>
-        <li><code>IOS</code></li>
-        <li><code>Desktop</code></li>
-        <li><code>Web</code></li>
-      </list>
+        <code>Android</code><br>
+        <code>IOS</code><br>
+        <code>Desktop</code><br>
+        <code>Web</code>
     </td>
      <td>
     <code>Bar Chart</code><br>
