@@ -1,10 +1,35 @@
 # Kotlin-Multiplatform-Projects
 
 ## A
-| Name | Description                                                           | Target Platforms    | Functionalities|
-|------|-----------------------------------------------------------------------|---------------------|----------------|
-| [AAY_chart](https://github.com/TheChance101/AAY-chart) | A comprehensive Compose Multiplatform library that includes several types of charts. It supports iOS, Android, desktop, and web platforms, providing extensive capabilities for data visualization. | `Android`<br>`iOS`<br>`Desktop`<be> `Web`<be> | `Bar Chart ` <br> `Line Chart` <br> `Donut Chart` <br> `Pie Chart` <br> `Radar Chart` <br>
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Description</td>
+    <td>Target Platforms</td>
+    <td>Functionalities</td>
+  </tr>
+   <tr>
+    <td>
+      <strong><a href = "https://github.com/TheChance101/AAY-chart">AAY_chart</a></strong>
+    </td>
+    <td>A comprehensive Compose Multiplatform library that includes several types of charts. It supports iOS, Android, desktop, and web platforms, providing extensive capabilities for data visualization.</td>
+    <td>
+      <list>
+        <li><code>Android</code></li>
+        <li><code>IOS</code></li>
+        <li><code>Desktop</code></li>
+        <li><code>Web</code></li>
+      </list>
+    </td>
+     <td>
+    <code>Bar Chart</code><br>
+    <code>Line Chart</code><br>
+    <code>Donut Chart</code><br>
+    <code>Pie Chart</code><br>
+    <code>Radar Chart</code></td>
+  </tr>
+    </table>
+    
 ## B
 | Name | Description                                                           | Target Platforms    | Functionalities|
 |------|-----------------------------------------------------------------------|---------------------|----------------|
