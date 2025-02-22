@@ -26,6 +26,18 @@
     <code>Pie Chart</code><br>
     <code>Radar Chart</code></td>
   </tr>
+   <tr>
+    <td>
+      <strong><a href = "https://github.com/Queatz/AiLaAi">Ai là ai</a></strong>
+    </td>
+    <td>A full-featured social platform built with KMP.</td>
+    <td>
+        <code>Android</code><br>
+        <code>Web</code>
+        <code>Backend</code><br>
+    </td>
+     <td>Posts, messaging, pages, notifications, calendar, and much more.</td>
+  </tr>
     </table>
     
 ## B
